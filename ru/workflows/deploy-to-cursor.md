@@ -16,15 +16,23 @@
 
 Посмотрите папку `ru/rules/domain/`. Для каждого файла решите: включать или нет.
 
-| Файл | Когда нужен |
-|------|-------------|
-| `python-proxy.md` | Используете Python и прокси/VPN |
-| `pre-install-check.md` | Устанавливаете ПО через AI (рекомендуется всем) |
-| `markdown-dates.md` | Ведёте документацию в markdown |
-| `excel-files.md` | Работаете с Excel через Python |
-| `generated-docs.md` | Создаёте DOCX/ODT программно |
-| `video-editing.md` | Редактируете видео через ffmpeg |
-| `technical-documents.md` | Ведёте техническую документацию в `technical/` |
+| Файл | Что обеспечивает |
+|------|-----------------|
+| `python-proxy.md` | Для работы с Python через прокси/VPN: корректная передача прокси во все HTTP-библиотеки |
+| `pre-install-check.md` | Для установки ПО с помощью AI: проверка совместимости с системой перед установкой (рекомендуется всем) |
+| `markdown-dates.md` | Для ведения документации в markdown: автоматическое проставление дат создания и актуализации |
+| `excel-files.md` | Для работы с Excel через Python: стандарты чтения, записи и оформления файлов |
+| `generated-docs.md` | Для создания DOCX/ODT программно: стандарты структуры и форматирования генерируемых документов |
+| `video-editing.md` | Для редактирования видео через ffmpeg: готовые паттерны команд, обработка ошибок |
+| `technical-documents.md` | Для ведения технической документации в папке `technical/`: структура и требования к оформлению |
+| `file-editing.md` | Для работы с файлами через AI: буквальное выполнение запросов, защита от незапрошенных изменений, бэкапы (рекомендуется всем) |
+| `settings-change-tracking.md` | Для изменения настроек с помощью AI: автоматическая фиксация всех изменений в документации (рекомендуется всем) |
+| `backlogs-management.md` | Для ведения бэклогов задач: структура файлов, реестр, порядок работы |
+| `odt-fonts.md` | Для создания ODT-документов: стандарты шрифтов и оформления (LibreOffice) |
+| `projects-management.md` | Для управления проектами: реестр, бэклог, подпроекты, именование |
+| `rules-management.md` | Для создания и управления правилами AI-ассистента: размещение, структура, реестр, валидация |
+| `skills-management.md` | Для работы со skills AI-ассистента: безопасность, аппрув, создание |
+| `structural-analogy.md` | Для создания контента по аналогии с образцом: сохранение структуры, ссылок, разделителей |
 
 ### 1.3 Язык правил
 
@@ -93,6 +101,14 @@ alwaysApply: false
 | generated-docs | `**/*.docx, **/*.odt` | false |
 | video-editing | `**/*.mp4, **/*.mkv, **/*.avi, **/*.webm, **/*.mov` | false |
 | technical-documents | `**/technical/**/*.md` | false |
+| file-editing | — | true |
+| settings-change-tracking | — | true |
+| backlogs-management | `**/backlogs/**` | false |
+| odt-fonts | `**/*.odt` | false |
+| projects-management | — (description-based) | false |
+| rules-management | `.cursor/rules/**` | false |
+| skills-management | `.cursor/skills/**` | false |
+| structural-analogy | `**/*.md` | false |
 
 ---
 

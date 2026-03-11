@@ -16,15 +16,23 @@ Core rules (`en/rules/core.md`, `en/rules/information-architecture.md`, `en/rule
 
 Browse the `en/rules/domain/` folder. For each file, decide whether to include it or not.
 
-| File | When you need it |
-|------|------------------|
-| `python-proxy.md` | You use Python with a proxy/VPN |
-| `pre-install-check.md` | You install software via AI (recommended for everyone) |
-| `markdown-dates.md` | You maintain documentation in markdown |
-| `excel-files.md` | You work with Excel via Python |
-| `generated-docs.md` | You generate DOCX/ODT files programmatically |
-| `video-editing.md` | You edit video with ffmpeg |
-| `technical-documents.md` | You maintain technical docs in a `technical/` folder |
+| File | What it provides |
+|------|-----------------|
+| `python-proxy.md` | For working with Python through a proxy/VPN: correct proxy forwarding across all HTTP libraries |
+| `pre-install-check.md` | For installing software via AI: compatibility check against the system before installation (recommended for everyone) |
+| `markdown-dates.md` | For maintaining documentation in markdown: automatic stamping of creation and update dates |
+| `excel-files.md` | For working with Excel via Python: standards for reading, writing, and formatting files |
+| `generated-docs.md` | For generating DOCX/ODT programmatically: structure and formatting standards for generated documents |
+| `video-editing.md` | For editing video with ffmpeg: ready-made command patterns, error handling |
+| `technical-documents.md` | For maintaining technical documentation in a `technical/` folder: structure and formatting requirements |
+| `file-editing.md` | For working with files via AI: literal execution of requests, protection against unsolicited changes, backups (recommended for everyone) |
+| `settings-change-tracking.md` | For changing settings via AI: automatic recording of all changes in documentation (recommended for everyone) |
+| `backlogs-management.md` | For managing task backlogs: file structure, registry, workflow |
+| `odt-fonts.md` | For creating ODT documents: font and formatting standards (LibreOffice) |
+| `projects-management.md` | For managing projects: registry, backlog, subprojects, naming |
+| `rules-management.md` | For creating and managing AI assistant rules: placement, structure, registry, validation |
+| `skills-management.md` | For working with AI assistant skills: security, approval, creation |
+| `structural-analogy.md` | For creating content modeled on an existing example: preserving structure, links, and dividers |
 
 ### 1.3 Rules language
 
@@ -93,6 +101,14 @@ Recommended globs:
 | generated-docs | `**/*.docx, **/*.odt` | false |
 | video-editing | `**/*.mp4, **/*.mkv, **/*.avi, **/*.webm, **/*.mov` | false |
 | technical-documents | `**/technical/**/*.md` | false |
+| file-editing | — | true |
+| settings-change-tracking | — | true |
+| backlogs-management | `**/backlogs/**` | false |
+| odt-fonts | `**/*.odt` | false |
+| projects-management | — (description-based) | false |
+| rules-management | `.cursor/rules/**` | false |
+| skills-management | `.cursor/skills/**` | false |
+| structural-analogy | `**/*.md` | false |
 
 ---
 

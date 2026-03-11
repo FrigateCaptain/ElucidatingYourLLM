@@ -42,6 +42,11 @@ The repository has two folders: `ru/` (Russian) and `en/` (English). Each contai
 
 Detailed instructions in [`INSTRUCTIONS.ru.md`](INSTRUCTIONS.ru.md) (Russian) and [`INSTRUCTIONS.en.md`](INSTRUCTIONS.en.md) (English).
 
+**Workflows vs. skill — what's the difference:**
+
+- **Workflows** (6 files: 3 platforms × 2 languages) are step-by-step text instructions. You give your AI a link to the workflow file, the AI reads it, asks setup questions, and deploys the rules. There is a workflow for each platform: Cursor, Claude Code, and OpenClaw.
+- **Skill** (2 files: 2 languages) is an interactive deployment tool. Instead of following a document, the AI runs an interactive session: asks questions, creates files automatically. The skill supports Cursor and Claude Code only — not OpenClaw. The Cursor and Claude Code workflows reference the skill as an alternative to the manual process.
+
 **What you get:**
 
 Your AI assistant becomes sensible, sharp, specific, and reliable — not only helping with day-to-day tasks but also continuously tuning and improving itself.
@@ -108,6 +113,11 @@ Deploying the rules is step one. Step two is learning how to work with AI and ho
    - предлагает сделать бэкап перед применением.
 
 Подробные инструкции — в [`INSTRUCTIONS.ru.md`](INSTRUCTIONS.ru.md) (рус.) и [`INSTRUCTIONS.en.md`](INSTRUCTIONS.en.md) (eng.).
+
+**Воркфлоу и скилл — в чём разница:**
+
+- **Воркфлоу** (6 файлов: 3 платформы × 2 языка) — текстовые пошаговые инструкции. Вы даёте AI ссылку на файл воркфлоу, AI читает его, задаёт вопросы по настройке и деплоит правила. Для каждой платформы — свой воркфлоу: Cursor, Claude Code, OpenClaw.
+- **Скилл** (2 файла: 2 языка) — интерактивный инструмент деплоя. Вместо чтения документа AI запускает интерактивную сессию: задаёт вопросы, создаёт файлы автоматически. Скилл поддерживает только Cursor и Claude Code — не OpenClaw. Воркфлоу Cursor и Claude Code ссылаются на скилл как на альтернативу ручному процессу.
 
 **Что вы получаете:**
 
@@ -185,7 +195,7 @@ ru/                             # Правила и воркфлоу на рус
 │   ├── file-management.md
 │   ├── scripts-management.md
 │   ├── git-workflow.md
-│   └── domain/ (7 files)
+│   └── domain/ (15 files)
 ├── workflows/
 │   ├── deploy-to-cursor.md
 │   ├── deploy-to-claude-code.md
@@ -204,4 +214,4 @@ en/                             # Rules and workflows in English
 ---
 
 *Created: 10 March 2026*  
-*Updated: 11 March 2026 (removed legacy root folders rules/, workflows/, skills/; bilingual structure ru/en is now the only source)*
+*Updated: 11 March 2026 (removed legacy root folders rules/, workflows/, skills/; bilingual structure ru/en is now the only source; added workflows-vs-skill explanation; expanded domain rules tables to all 15 rules in all 6 workflows and both skills; added platform adaptation logic for rules-management and skills-management in OpenClaw workflows)*

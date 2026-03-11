@@ -41,13 +41,21 @@ Show the list and ask:
 ### Step 4. Choose domain rules
 
 > "Which domain rules do you need? Select the ones you need:
-> - [ ] python-proxy.md — if you use Python + proxy/VPN
-> - [ ] pre-install-check.md — recommended for everyone
-> - [ ] markdown-dates.md — if you maintain documentation in markdown
-> - [ ] excel-files.md — if you work with Excel via Python
-> - [ ] generated-docs.md — if you create DOCX/ODT programmatically
-> - [ ] video-editing.md — if you work with video via ffmpeg
-> - [ ] technical-documents.md — if you maintain a technical/ folder"
+> - [ ] python-proxy.md — for working with Python through a proxy/VPN: correct proxy forwarding across all HTTP libraries
+> - [ ] pre-install-check.md — for installing software via AI: compatibility check against the system before installation (recommended for everyone)
+> - [ ] markdown-dates.md — for maintaining documentation in markdown: automatic stamping of creation and update dates
+> - [ ] excel-files.md — for working with Excel via Python: standards for reading, writing, and formatting files
+> - [ ] generated-docs.md — for generating DOCX/ODT programmatically: structure and formatting standards for generated documents
+> - [ ] video-editing.md — for editing video with ffmpeg: ready-made command patterns, error handling
+> - [ ] technical-documents.md — for maintaining technical documentation in a `technical/` folder: structure and formatting requirements
+> - [ ] file-editing.md — for working with files via AI: literal execution of requests, protection against unsolicited changes, backups (recommended for everyone)
+> - [ ] settings-change-tracking.md — for changing settings via AI: automatic recording of all changes in documentation (recommended for everyone)
+> - [ ] backlogs-management.md — for managing task backlogs: file structure, registry, workflow
+> - [ ] odt-fonts.md — for creating ODT documents: font and formatting standards (LibreOffice)
+> - [ ] projects-management.md — for managing projects: registry, backlog, subprojects, naming
+> - [ ] rules-management.md — for creating and managing AI assistant rules: placement, structure, registry, validation
+> - [ ] skills-management.md — for working with AI assistant skills: security, approval, creation
+> - [ ] structural-analogy.md — for creating content modeled on an existing example: preserving structure, links, and dividers"
 
 ### Step 5. Language of rules
 
