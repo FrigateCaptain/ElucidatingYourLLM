@@ -171,3 +171,5 @@ When a new version of the rules is released:
 1. `git pull` in the ElucidatingYourLLM folder
 2. Check CHANGELOG.md
 3. Manually apply the changes to `SOUL.md` and `AGENTS.md` on the VPS
+
+> **Note**: this workflow covers only deploying *rules* to the OpenClaw agent. VPS maintenance (backup, monitoring, scripts, incidents) is a separate process.

@@ -63,6 +63,14 @@ Deploying the rules is step one. Step two is learning how to work with AI and ho
 - **For everyone working with AI:** "How to Tame Your LLM and Onboard It into Your World" — [PLACEHOLDER: link]
 - **Introductory video:** [Watch on YouTube](https://www.youtube.com/watch?v=8H31ofgYSdQ) ⚠️ *temporary video, will be replaced*
 
+### Stay in touch
+
+Leave your contact — I'll reach out when new materials, courses, or access to the advanced ruleset become available:
+
+- 📋 **[Interest form](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 min)
+- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — write directly
+- 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — if you prefer GitHub
+
 ### Who this is for
 
 **Group 1 — General AI users** (anyone using AI assistants day-to-day):
@@ -134,6 +142,14 @@ Deploying the rules is step one. Step two is learning how to work with AI and ho
 - **Для руководителей и предпринимателей:** «LLM в руках управленца: как усилить бизнес и оптимизировать управление» — [PLACEHOLDER: ссылка]
 - **Для всех, кто работает с AI:** «Как обуздать LLM и онбордить её в свой мир» — [PLACEHOLDER: ссылка]
 - **Ознакомительное видео:** [Смотреть на YouTube](https://www.youtube.com/watch?v=8H31ofgYSdQ) ⚠️ *временное видео, будет заменено*
+
+### Оставить заявку
+
+Оставьте контакт — напишу, когда появятся новые материалы, курсы или доступ к расширенному набору правил:
+
+- 📋 **[Форма заявки](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 минута)
+- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — написать напрямую
+- 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — если удобнее через GitHub
 
 ### Для кого это
 
