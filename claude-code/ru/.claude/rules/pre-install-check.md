@@ -1,31 +1,31 @@
 # Pre-Installation Compatibility Check [MANDATORY]
 
-**Перед установкой любого приложения или пакета — проверить совместимость с целевой системой.**
+**Before installing any application or package — verify compatibility with the target system.**
 
-При установке нового ПО (через пакетный менеджер, скачивание бинарников, snap, flatpak, или ручную установку):
+When installing new software (via a package manager, downloading binaries, snap, flatpak, or manual installation):
 
-1. **Определить требования приложения**:
-   - Минимальная версия ОС
-   - Требуемые библиотеки и их версии (GLIBC, libstdc++, и т.д.)
-   - Архитектура процессора (x86_64, ARM, и т.д.)
-   - Зависимости (runtime, frameworks)
+1. **Determine application requirements**:
+   - Minimum OS version
+   - Required libraries and their versions (GLIBC, libstdc++, etc.)
+   - CPU architecture (x86_64, ARM, etc.)
+   - Dependencies (runtime, frameworks)
 
-2. **Определить параметры целевой системы**:
-   - Версия ОС: `lsb_release -a` или `cat /etc/os-release`
-   - Версия GLIBC: `ldd --version | head -1`
-   - Архитектура: `uname -m`
-   - Другие зависимости по необходимости
+2. **Determine target system parameters**:
+   - OS version: `lsb_release -a` or `cat /etc/os-release`
+   - GLIBC version: `ldd --version | head -1`
+   - Architecture: `uname -m`
+   - Other dependencies as needed
 
-3. **Сравнить и принять решение**:
-   - Если требования совместимы → приступать к установке
-   - Если **несовместимы** → **остановиться**, сообщить пользователю о конфликте и предложить альтернативы:
-     - Более старая/совместимая версия приложения
-     - Установка через контейнер (Docker, Flatpak, AppImage)
-     - Обновление системы (если это приемлемо)
+3. **Compare and decide**:
+   - If requirements are compatible → proceed with installation
+   - If **incompatible** → **stop**, inform the user of the conflict, and suggest alternatives:
+     - An older / compatible application version
+     - Installation via a container (Docker, Flatpak, AppImage)
+     - System upgrade (if acceptable)
 
-4. **Источники информации о требованиях**:
-   - Страница релиза приложения (GitHub Releases, changelog)
-   - Официальная документация
-   - При отсутствии явной информации — проверить через веб-поиск: `"[app name] [version] system requirements linux"`
+4. **Sources for requirement information**:
+   - Application release page (GitHub Releases, changelog)
+   - Official documentation
+   - If no explicit information — search the web: `"[app name] [version] system requirements linux"`
 
-**Причина**: Установка несовместимого ПО приводит к ошибкам (например, `GLIBC_2.36 not found`), потере времени на диагностику и необходимости удаления.
+**Reason**: Installing incompatible software causes errors (e.g. `GLIBC_2.36 not found`), wastes time on diagnosis, and may require removal.

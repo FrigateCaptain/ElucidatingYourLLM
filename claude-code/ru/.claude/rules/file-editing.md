@@ -1,21 +1,21 @@
-# Работа с файлами и текстами
+# Working with files and text
 
-## Буквальное выполнение запросов
+## Literal execution of requests
 
-- Вносить **буквально** те изменения, которые просит пользователь.
-- **НЕ делать** незапрошенных изменений (порядок столбцов, форматирование, переименование, реструктуризация и т.д.).
-- Если AI считает, что полезно внести дополнительное изменение — **сначала спросить подтверждение**, описав что именно и зачем.
-- Только после явного подтверждения пользователя — выполнять дополнительное изменение.
+- Apply **exactly** the changes the user asks for.
+- **Do not** make unrequested changes (column order, formatting, renaming, restructuring, etc.).
+- If the AI believes an extra change would help — **ask for confirmation first**, stating what and why.
+- Only after explicit user confirmation — apply the additional change.
 
-**Исключение — скрипты**: при создании или изменении исполняемых скриптов (`.py`, `.sh`, `.bash`) — **всегда** применяется полный процесс Scripts Management. Обновление spec, COMPLIANT, REGISTRY — обязательная часть изменения.
+**Exception — scripts**: when creating or modifying executable scripts (`.py`, `.sh`, `.bash`) — **always** follow the full Scripts Management process. Updating spec, COMPLIANT, and REGISTRY is a mandatory part of the change.
 
-## Защита файлов
+## File protection
 
-- Работать только с явно указанными файлами и источниками. Не трогать другие файлы, даже если они похожи или «по смыслу рядом».
-- Если есть несколько потенциальных источников (ODT, TXT, MD и т.п.) или остаются сомнения — приостановиться и уточнить у пользователя, какой источник использовать и что именно менять.
-- Не менять смысл, структуру или формат документа без прямого запроса.
+- Work only with explicitly specified files and sources. Do not touch other files, even if they look similar or are “related in meaning.”
+- If there are several possible sources (ODT, TXT, MD, etc.) or doubts remain — stop and ask the user which source to use and what exactly to change.
+- Do not change the meaning, structure, or format of a document without a direct request.
 
-## Бэкапы и подтверждения
+## Backups and confirmations
 
-- Перед экспериментами или массовыми правками — делать копию/бэкап исходного файла и работать в копии.
-- Перед применением правок — сообщить, какие изменения планируются, и ждать подтверждения. После — кратко зафиксировать, что изменено и какие файлы затронуты.
+- Before experiments or bulk edits — copy/backup the source file and work on the copy.
+- Before applying edits — state what changes are planned and wait for confirmation. Afterward — briefly record what was changed and which files were affected.
