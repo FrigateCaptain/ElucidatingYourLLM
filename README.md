@@ -20,6 +20,16 @@ The real leverage is in how *you* work with the rules: noticing what's off, corr
 
 That's the Human-in-the-Loop (HITL) framework — and it's what separates people who get 10x value from AI from people who just get autocomplete.
 
+### What you get
+
+Your AI assistant becomes sensible, sharp, specific, and reliable — not only helping with day-to-day tasks but also continuously tuning and improving itself.
+
+This includes both personal refinements and work by the "Key to Real Management" educational center, as well as community consensus standards as of March 2026. Fewer collisions, hallucinations, and unexpected behaviors. More predictability and more satisfaction from working with AI. Your AI stops acting like the "Two from the Chest":
+
+![Two from the Chest — EN](assets/vovka-two-from-chest-en.gif)
+
+Deploying the rules is step one. Step two is learning how to work with AI and how to adapt it for yourself so you can keep improving the system on your own: spot what's off, fix it, expand what's possible. That's what the courses are for (links below) — they give you the right lens and frameworks that hold up even when the tools change — and they will, within six months to a year. You'll be able to clearly understand which new tools fit your needs, what they're good for, and how to use them best.
+
 ### Structure
 
 The repository is organized by platform, then by language:
@@ -94,6 +104,38 @@ This repository contains the **Principal** rule set — the foundational rules t
 For the complete **Advanced** set (32 rules across all platforms, including specialized rules for scripts, Git, Excel, video, and more), see:  
 → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) *(access by subscription)*
 
+### Who this is for
+
+**Group 1 — General AI users** (anyone using AI assistants day-to-day):
+
+| Segment | What you get |
+|---------|-------------|
+| Just starting out | A solid foundation — rules, structure, deployment guide. Skip the months of trial-and-error. |
+| Already using AI actively | Upgrade your setup immediately. Then learn the framework to move faster and get better results. |
+| Power users | Deploy this to your colleagues, employees, partners. Better onboarding, faster ramp-up. |
+
+**Group 2 — Managers, founders, executives** (using AI for business and leadership):
+
+| Segment | What you get |
+|---------|-------------|
+| Just starting out | The right mental model from day one — AI as a managed resource, not a magic box. |
+| Already using AI | A system that makes your AI investment compound over time, not plateau. |
+| Advanced users | A framework for rolling out AI across your team and organization with consistency. |
+
+### Courses and videos
+
+- **For managers and founders:** "LLM in the Hands of a Manager: How to Strengthen Your Business and Optimize Management" — [PLACEHOLDER: link]
+- **For everyone working with AI:** "How to Tame Your LLM and Onboard It into Your World" — [PLACEHOLDER: link]
+- **Introductory video:** [Watch on YouTube](https://www.youtube.com/watch?v=8H31ofgYSdQ) ⚠️ *temporary video, will be replaced*
+
+### Stay in touch
+
+Leave your contact — I'll reach out when new materials, courses, or access to the advanced ruleset become available:
+
+- 📋 **[Interest form](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 min)
+- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — write directly
+- 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — if you prefer GitHub
+
 ---
 
 ## RU · Что это такое?
@@ -105,6 +147,16 @@ For the complete **Advanced** set (32 rules across all platforms, including spec
 Настоящий результат приходит от того, как ты работаешь с правилами: замечаешь отклонения, корректируешь, верифицируешь поправки, систематически расширяешь то, что AI умеет делать за тебя.
 
 Это и есть фреймворк Human-in-the-Loop (HITL) — именно он отличает людей, которые получают кратный результат от AI, от тех, кто просто пользуется автодополнением.
+
+### Что вы получаете
+
+Ваш AI-ассистент становится адекватным, толковым, конкретным и исполнительным — и не только помогает в повседневных задачах, но и последовательно настраивает и улучшает себя.
+
+Здесь воплощены как личные наработки, так и наработки нашего учебно-методического центра «Ключ к реальному управлению», а также учтены консенсусные стандарты сообществ по состоянию на март 2026 года. Меньше коллизий, галлюцинаций, неожиданных реакций. Больше предсказуемости и удовольствия от работы. AI перестаёт делать «как двое из ларца»:
+
+![Двое из ларца — RU](assets/vovka-two-from-chest-ru.gif)
+
+Установка правил — это шаг первый. Шаг второй — освоить логику работы с AI, логику его адаптации под себя, чтобы продолжать улучшать систему самостоятельно: замечать что идёт не так, корректировать, расширять возможности. Для этого приходите к нам на курсы (ссылки ниже) — они дают правильную оптику и фреймворки, которые работают. И даже когда инструменты изменятся — а через полгода-год они изменятся точно — вы сможете ясно понимать, что из новых инструментов подходит, для чего и как их лучше использовать.
 
 ### Структура
 
@@ -164,6 +216,38 @@ EN-версии на ~12–15% компактнее RU.
 
 Полный **расширенный (Advanced)** набор (32 правила на всех платформах, включая специализированные правила для скриптов, Git, Excel, видео и др.):  
 → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) *(доступ по подписке)*
+
+### Для кого это
+
+**Группа 1 — Все, кто работает с AI** (используют AI-ассистентов в повседневной работе):
+
+| Сегмент | Что вы получаете |
+|---------|-----------------|
+| Только начинаете | Надёжный фундамент — правила, структура, инструкция по установке. Пропускаете месяцы проб и ошибок. |
+| Уже активно используете AI | Мгновенное улучшение вашей конфигурации. Затем — фреймворк, чтобы двигаться быстрее и получать лучшие результаты. |
+| Продвинутые пользователи | Разверните это для коллег, сотрудников, партнёров. Лучший онбординг, быстрый выход на рабочий режим. |
+
+**Группа 2 — Руководители, предприниматели, управленцы** (используют AI для бизнеса и управления):
+
+| Сегмент | Что вы получаете |
+|---------|-----------------|
+| Только начинаете | Правильная ментальная модель с первого дня — AI как управляемый ресурс, а не магическая коробка. |
+| Уже используете AI | Система, которая наращивает отдачу от AI со временем, а не выходит на плато. |
+| Продвинутые пользователи | Фреймворк для масштабирования AI на команду и организацию с единым стандартом. |
+
+### Курсы и видео
+
+- **Для руководителей и предпринимателей:** «LLM в руках управленца: как усилить бизнес и оптимизировать управление» — [PLACEHOLDER: ссылка]
+- **Для всех, кто работает с AI:** «Как обуздать LLM и онбордить её в свой мир» — [PLACEHOLDER: ссылка]
+- **Ознакомительное видео:** [Смотреть на YouTube](https://www.youtube.com/watch?v=8H31ofgYSdQ) ⚠️ *временное видео, будет заменено*
+
+### Оставить заявку
+
+Оставьте контакт — напишу, когда появятся новые материалы, курсы или доступ к расширенному набору правил:
+
+- 📋 **[Форма заявки](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 минута)
+- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — написать напрямую
+- 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — если удобнее через GitHub
 
 ---
 
