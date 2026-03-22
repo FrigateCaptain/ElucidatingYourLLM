@@ -85,6 +85,8 @@ Other models may work well too, but may require additional tuning or supplementa
 
 **On weaker or smaller models:** the rules still help, but not at full capacity. Smaller models were not the design target, and they have less ability to consistently follow a structured ruleset. That said, partial compliance is still better than no rules at all — even a weaker model behaves more predictably with rules than without them.
 
+**When extending or adding new rules:** it is critically important to use the most capable model available (e.g., Opus 4.6). Rule quality and consistency across the ruleset depend on the model's ability to reason about complex behavioral constraints — weaker models produce lower-quality rules that may conflict with or undermine existing ones, or simply fail to produce the intended effect.
+
 ### Want more rules?
 
 This repository contains the **Principal** rule set — the foundational rules that every AI user needs.
@@ -153,6 +155,8 @@ EN-версии на ~12–15% компактнее RU.
 Другие модели тоже работают, но могут потребовать дополнительной настройки или дополнительных правил для достижения того же уровня соблюдения.
 
 **На слабых или маленьких моделях:** правила помогают, но не в полную силу. Маленькие модели не были целевой аудиторией при разработке, и они хуже справляются с последовательным следованием структурированному набору правил. При этом даже частичное соблюдение правил лучше, чем их полное отсутствие — с правилами даже слабая модель ведёт себя предсказуемее.
+
+**При доработке и добавлении новых правил:** критически важно использовать наиболее старшую из доступных моделей (например, Opus 4.6). Качество правил и их согласованность с уже существующими зависят от способности модели рассуждать о сложных поведенческих ограничениях — более слабые модели генерируют правила худшего качества, которые могут конфликтовать с уже имеющимися или подрывать их действие, или даже просто не давать нужный эффект.
 
 ### Хочешь больше правил?
 
