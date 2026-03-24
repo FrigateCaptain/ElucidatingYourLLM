@@ -36,7 +36,7 @@ Deploying the rules is step one. Step two is learning how to work with AI and ho
 ### Want more rules?
 
 Beyond this repository with the **Principal** rule set (the foundational rules every AI user needs), there is also the **Advanced** rule set — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — a supplement to ElucidatingYourLLM.  
-It includes all Principal rules + 18 additional specialized rules, in particular:
+The Advanced set includes all Principal rules + 18 additional specialized rules, in particular:
 
 - Rules management (how to structure your work with AI rule files so it stays a clear, productive tool)
 - Projects management min (structuring and documenting project information so it's both human-readable (easy to recall what was done and why) and AI-readable (so the AI understands the logic and makes better suggestions))
@@ -172,7 +172,7 @@ Other models may work well too, but may require additional tuning or supplementa
 ### Хочешь больше правил?
 
 Кроме текущего репозитория с **базовым (Principal)** набором правил, которые нужны каждому пользователю AI, есть ещё **Расширенный (Advanced)** набор правил — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — дополнение к ElucidatingYourLLM.  
-Он включает все базовые правила + 18 специализированных, в частности:
+Расширенный набор включает все базовые правила + 18 специализированных, в частности:
 
 - Управление правилами (как построить работу с файлами правил AI, чтобы это было ясным и продуктивным инструментом)
 - Управление проектами min (структурирование и фиксация информации о проекте таким образом, чтобы она была и хорошо человекочитаемой (легко вспомнить, что и зачем делалось) и ИИ-читаемой (чтобы ИИ адекватнее понимал логику и делал/предлагал адекватные решения))
