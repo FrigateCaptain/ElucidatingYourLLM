@@ -114,8 +114,8 @@ Course graduates also get access to [advanced materials](https://github.com/Frig
 
 Leave your contact if you're interested in courses or access to the advanced ruleset:
 
-- 📋 **[Interest form](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 min)
 - 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — write directly
+- 📋 **[Interest form](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 min)
 - 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — if you prefer GitHub
 
 ### Who this is for
@@ -219,8 +219,8 @@ EN-версии на ~12–15% компактнее RU.
 
 Оставить заявку, если интересны курсы или доступ к расширенному набору правил:
 
+- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — пишите напрямую
 - 📋 **[Форма заявки](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 минута)
-- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — написать напрямую
 - 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — если удобнее через GitHub
 
 ### Для кого это
@@ -237,4 +237,4 @@ EN-версии на ~12–15% компактнее RU.
 ---
 
 *Создан: 21 марта 2026*  
-*Актуализирован: 24 марта 2026*
+*Актуализирован: 24 марта 2026, 17:30*
