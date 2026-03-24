@@ -8,17 +8,18 @@
 **EN:** A battle-tested set of rules for AI assistants (Cursor, Claude Code, OpenClaw) — ready to deploy in minutes.
 
 **RU:** Проверенный набор правил для AI-ассистентов (Cursor, Claude Code, OpenClaw) — готов к деплою за несколько минут.
+*[→ Перейти к полному описанию на русском](#ru--что-это-такое)*
 
 ---
 
 ## EN · What is this?
 
-A battle-tested set of rules for AI assistants — ready to deploy. Comes with deployment guides for each platform.
+A battle-tested set of rules for AI assistants — ready to deploy. Comes with step-by-step AI-assisted deployment guides for each platform.
 
-**But rules alone won't make your AI work better.**  
-The real leverage is in how *you* work with the rules: noticing what's off, correcting it, verifying corrections, and systematically expanding what your AI can do for you.
+**But rules are just the beginning.**  
+The real results come from ongoing work with the rules: how you notice deviations, correct them through new rules, verify the fixes, and systematically expand what your AI can do for you.
 
-That's the Human-in-the-Loop (HITL) framework — and it's what separates people who get 10x value from AI from people who just get autocomplete.
+That's the AI-Lucidability Framework — what makes the Human-in-the-Loop (HITL) approach actually work. It's what separates people who get 10x value from AI from those who simply augment their usual workflow.
 
 ### What you get
 
@@ -95,7 +96,7 @@ Other models may work well too, but may require additional tuning or supplementa
 
 **On weaker or smaller models:** the rules still help, but not at full capacity. Smaller models were not the design target, and they have less ability to consistently follow a structured ruleset. That said, partial compliance is still better than no rules at all — even a weaker model behaves more predictably with rules than without them.
 
-**When extending or adding new rules:** it is critically important to use the most capable model available (e.g., Opus 4.6). Rule quality and consistency across the ruleset depend on the model's ability to reason about complex behavioral constraints — weaker models produce lower-quality rules that may conflict with or undermine existing ones, or simply fail to produce the intended effect.
+**When extending or adding new rules with AI:** it is critically important to use the most capable model available (e.g., Opus 4.6). Rule quality and consistency across the ruleset depend on the model's ability to reason about complex behavioral constraints — weaker models produce lower-quality rules that may conflict with or undermine existing ones, or simply fail to produce the intended effect.
 
 ### Want more rules?
 
@@ -141,12 +142,12 @@ Leave your contact — I'll reach out when new materials, courses, or access to 
 ## RU · Что это такое?
 
 Проверенный набор правил для AI-ассистентов (Cursor, Claude Code, OpenClaw).  
-Готов к деплою. Содержит пошаговые инструкции для каждой платформы.
+Готов к деплою. Содержит пошаговые инструкции для развёртывания с помощью ИИ для каждой платформы.
 
 **Правила — только начало.**  
-Настоящий результат приходит от того, как ты работаешь с правилами: замечаешь отклонения, корректируешь, верифицируешь поправки, систематически расширяешь то, что AI умеет делать за тебя.
+Настоящий результат получается от дальнейшей работы с правилами: как ты замечаешь отклонения, корректируешь через новые правила, верифицируешь поправки и систематически расширяешь то, что AI умеет делать за тебя.
 
-Это и есть фреймворк Human-in-the-Loop (HITL) — именно он отличает людей, которые получают кратный результат от AI, от тех, кто просто пользуется автодополнением.
+Это и есть фреймворк AI-Lucidability (ИИ-контрастирования), делающий подход Human-in-the-Loop (HITL) по-настоящему рабочим — именно AI-Lucidability отличает людей, которые получают кратный результат от AI, от тех, кто просто дополняет привычные действия.
 
 ### Что вы получаете
 
@@ -208,7 +209,7 @@ EN-версии на ~12–15% компактнее RU.
 
 **На слабых или маленьких моделях:** правила помогают, но не в полную силу. Маленькие модели не были целевой аудиторией при разработке, и они хуже справляются с последовательным следованием структурированному набору правил. При этом даже частичное соблюдение правил лучше, чем их полное отсутствие — с правилами даже слабая модель ведёт себя предсказуемее.
 
-**При доработке и добавлении новых правил:** критически важно использовать наиболее старшую из доступных моделей (например, Opus 4.6). Качество правил и их согласованность с уже существующими зависят от способности модели рассуждать о сложных поведенческих ограничениях — более слабые модели генерируют правила худшего качества, которые могут конфликтовать с уже имеющимися или подрывать их действие, или даже просто не давать нужный эффект.
+**При доработке и добавлении новых правил с помощью ИИ:** критически важно использовать наиболее старшую из доступных моделей (например, Opus 4.6). Качество правил и их согласованность с уже существующими зависят от способности модели рассуждать о сложных поведенческих ограничениях — более слабые модели генерируют правила худшего качества, которые могут конфликтовать с уже имеющимися или подрывать их действие, или даже просто не давать нужный эффект.
 
 ### Хочешь больше правил?
 
