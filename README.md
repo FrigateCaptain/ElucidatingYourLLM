@@ -100,7 +100,7 @@ Other models may work well too, but may require additional tuning or supplementa
 
 ### Want more rules?
 
-Beyond this repository with the **Principal** rule set (the foundational rules every AI user needs), there is also the Advanced rule set — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — a supplement to ElucidatingYourLLM.  
+Beyond this repository with the **Principal** rule set (the foundational rules every AI user needs), there is also the **Advanced** rule set — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — a supplement to ElucidatingYourLLM.  
 It includes all Principal rules + 18 additional specialized rules, in particular:
 
 - Rules management (how to structure your work with AI rule files so it stays a clear, productive tool)
@@ -217,7 +217,7 @@ EN-версии на ~12–15% компактнее RU.
 
 ### Хочешь больше правил?
 
-Кроме текущего репозитория с **базовым (Principal)** набором правил, которые нужны каждому пользователю AI, есть ещё Расширенный (Advanced) набор правил — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — дополнение к ElucidatingYourLLM.  
+Кроме текущего репозитория с **базовым (Principal)** набором правил, которые нужны каждому пользователю AI, есть ещё **Расширенный (Advanced)** набор правил — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — дополнение к ElucidatingYourLLM.  
 Он включает все базовые правила + 18 специализированных, в частности:
 
 - Управление правилами (как построить работу с файлами правил AI, чтобы это было ясным и продуктивным инструментом)
