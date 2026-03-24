@@ -65,7 +65,7 @@ Leave your contact if you're interested in courses or access to the advanced rul
 - 📋 **[Interest form](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 min)
 - 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — if you prefer GitHub
 
-*Всё это также доступно [на русском языке ниже](#хочешь-больше-правил).*
+*Всё это также доступно [на русском языке ниже](#ru--что-это-такое).*
 
 ### Who this is for
 
