@@ -100,11 +100,8 @@ Other models may work well too, but may require additional tuning or supplementa
 
 ### Want more rules?
 
-This repository contains the **Principal** rule set — the foundational rules that every AI user needs.
-
-→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — The Advanced rule set — a supplement to ElucidatingYourLLM.
-
-Includes all Principal rules + 18 additional specialized rules:
+Beyond this repository with the **Principal** rule set (the foundational rules every AI user needs), there is also the Advanced rule set — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — a supplement to ElucidatingYourLLM.  
+It includes all Principal rules + 18 additional specialized rules, in particular:
 
 - Rules management (how to structure your work with AI rule files so it stays a clear, productive tool)
 - Projects management min (structuring and documenting project information so it's both human-readable (easy to recall what was done and why) and AI-readable (so the AI understands the logic and makes better suggestions))
@@ -118,7 +115,7 @@ Includes all Principal rules + 18 additional specialized rules:
 - Settings change tracking (so that if something breaks, you can figure out what was configured, how, and why)
 - Technical documents formatting (readable structure)
 
-*(access for course graduates or by subscription — [leave a request](#courses))*
+Access is available to all who complete our courses or by subscription — [leave a request](#courses).
 
 ### Courses
 
@@ -220,11 +217,8 @@ EN-версии на ~12–15% компактнее RU.
 
 ### Хочешь больше правил?
 
-Этот репозиторий содержит **базовый (Principal)** набор — правила, которые нужны каждому пользователю AI.
-
-→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — Расширенный (Advanced) набор правил — дополнение к ElucidatingYourLLM.
-
-Включает все базовые правила + 18 специализированных:
+Кроме текущего репозитория с **базовым (Principal)** набором правил, которые нужны каждому пользователю AI, есть ещё Расширенный (Advanced) набор правил — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — дополнение к ElucidatingYourLLM.  
+Он включает все базовые правила + 18 специализированных, в частности:
 
 - Управление правилами (как построить работу с файлами правил AI, чтобы это было ясным и продуктивным инструментом)
 - Управление проектами min (структурирование и фиксация информации о проекте таким образом, чтобы она была и хорошо человекочитаемой (легко вспомнить, что и зачем делалось) и ИИ-читаемой (чтобы ИИ адекватнее понимал логику и делал/предлагал адекватные решения))
@@ -238,7 +232,7 @@ EN-версии на ~12–15% компактнее RU.
 - Фиксация изменений настроек (чтобы если что-то перестанет работать — можно было разобраться, что и как настроено или должно быть настроено, и почему именно так)
 - Форматирование технических документов (удобочитаемая структура)
 
-*(доступ — прошедшим курсы или по подписке; [оставляйте заявки](#курсы))*
+Доступ к нему выдаётся всем, прошедшим наши курсы, или по подписке — [оставляйте заявки](#курсы).
 
 ### Курсы
 
@@ -267,4 +261,4 @@ EN-версии на ~12–15% компактнее RU.
 ---
 
 *Создан: 21 марта 2026*  
-*Актуализирован: 24 марта 2026, 22:10*
+*Актуализирован: 24 марта 2026, 22:20*
