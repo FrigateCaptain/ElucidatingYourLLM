@@ -5,23 +5,23 @@
 > **Rules are just the beginning.** Deploying them is step one.  
 > Using them well — learning to be a genuine Human-in-the-Loop — is the actual work.
 
-**EN:** A battle-tested set of rules for your AI assistants (Cursor, Claude Code, OpenClaw) — ready to deploy in minutes.
+**EN:** A battle-tested **set of main and core rules** for your AI assistants (Cursor, Claude Code, OpenClaw) — ready to deploy in minutes.
 
-**RU:** Проверенный набор правил для ваших AI-ассистентов (Cursor, Claude Code, OpenClaw) — готов к деплою за несколько минут.
+**RU:** Проверенный **набор ключевых правил** для ваших AI-ассистентов (Cursor, Claude Code, OpenClaw) — готов к деплою за несколько минут.
 *[→ Перейти к полному описанию на русском](#ru--что-это-такое)*
 
 ---
 
 ## EN · What is this?
 
-A battle-tested set of rules for your AI assistants — ready to deploy. Comes with step-by-step AI-assisted deployment guides for each platform.
+A battle-tested **set of main and core rules** for your AI assistants — ready to deploy. Comes with step-by-step AI-assisted deployment guides for each platform.
 
 > **This repo has the Principal rules. There's also an [Advanced set (18 extra rules)](#want-more-rules) and [courses](#courses) — details below.**
 
 **But rules are just the beginning.**  
 The real results come from ongoing work with the rules: how you notice deviations, correct them through new rules, verify the fixes, and systematically expand what your AI can do for you.
 
-That's the AI-Lucidability Framework — what makes the Human-in-the-Loop (HITL) approach actually work. It's what separates people who get 10x value from AI from those who simply augment their usual workflow.
+That's the **AI-Lucidability Framework** — what makes the Human-in-the-Loop (HITL) approach actually work. It's what separates people who get 10x value from AI from those who simply augment their usual workflow. [→ Courses](#courses)
 
 ### What you get
 
@@ -149,7 +149,7 @@ Other models may work well too, but may require additional tuning or supplementa
 
 ## RU · Что это такое?
 
-Проверенный набор правил для ваших AI-ассистентов (Cursor, Claude Code, OpenClaw).  
+Проверенный **набор ключевых правил** для ваших AI-ассистентов (Cursor, Claude Code, OpenClaw).  
 Готов к деплою. Содержит пошаговые инструкции для развёртывания с помощью ИИ для каждой платформы.
 
 > **Здесь — базовый (Principal) набор правил. Есть также [расширенный набор (18 доп. правил)](#хочешь-больше-правил) и [курсы](#курсы) — подробности ниже.**
@@ -157,7 +157,7 @@ Other models may work well too, but may require additional tuning or supplementa
 **Правила — только начало.**  
 Настоящий результат получается от дальнейшей работы с правилами: как ты замечаешь отклонения, корректируешь через новые правила, верифицируешь поправки и систематически расширяешь то, что AI умеет делать за тебя.
 
-Это и есть фреймворк AI-Lucidability (ИИ-контрастирования), делающий подход Human-in-the-Loop (HITL) по-настоящему рабочим — именно AI-Lucidability отличает людей, которые получают кратный результат от AI, от тех, кто просто дополняет привычные действия.
+Это и есть **фреймворк AI-Lucidability** (ИИ-контрастирования), делающий подход Human-in-the-Loop (HITL) по-настоящему рабочим — именно AI-Lucidability отличает людей, которые получают кратный результат от AI, от тех, кто просто дополняет привычные действия. [→ Курсы](#курсы)
 
 ### Что вы получаете
 
