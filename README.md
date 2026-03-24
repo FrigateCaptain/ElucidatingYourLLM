@@ -5,16 +5,16 @@
 > **Rules are just the beginning.** Deploying them is step one.  
 > Using them well — learning to be a genuine Human-in-the-Loop — is the actual work.
 
-**EN:** A battle-tested set of rules for AI assistants (Cursor, Claude Code, OpenClaw) — ready to deploy in minutes.
+**EN:** A battle-tested set of rules for your AI assistants (Cursor, Claude Code, OpenClaw) — ready to deploy in minutes.
 
-**RU:** Проверенный набор правил для AI-ассистентов (Cursor, Claude Code, OpenClaw) — готов к деплою за несколько минут.
+**RU:** Проверенный набор правил для ваших AI-ассистентов (Cursor, Claude Code, OpenClaw) — готов к деплою за несколько минут.
 *[→ Перейти к полному описанию на русском](#ru--что-это-такое)*
 
 ---
 
 ## EN · What is this?
 
-A battle-tested set of rules for AI assistants — ready to deploy. Comes with step-by-step AI-assisted deployment guides for each platform.
+A battle-tested set of rules for your AI assistants — ready to deploy. Comes with step-by-step AI-assisted deployment guides for each platform.
 
 **But rules are just the beginning.**  
 The real results come from ongoing work with the rules: how you notice deviations, correct them through new rules, verify the fixes, and systematically expand what your AI can do for you.
@@ -29,7 +29,7 @@ This includes both personal refinements and work by the "Key to Real Management"
 
 ![Two from the Chest — EN](assets/vovka-two-from-chest-en.gif)
 
-Deploying the rules is step one. Step two is learning how to work with AI and how to adapt it for yourself so you can keep improving the system on your own: spot what's off, fix it, expand what's possible. That's what the courses are for (links below) — they give you the right lens and frameworks that hold up even when the tools change — and they will, within six months to a year. You'll be able to clearly understand which new tools fit your needs, what they're good for, and how to use them best.
+Deploying the rules is step one. Step two is learning how to work with AI and how to adapt it for yourself so you can keep improving the system on your own: spot what's off, fix it, expand what's possible. That's what the [courses](#courses) are for — they give you the right lens and frameworks that hold up even when the tools change — and they will, within six months to a year. You'll be able to clearly understand which new tools fit your needs, what they're good for, and how to use them best.
 
 ### Structure
 
@@ -103,45 +103,37 @@ Other models may work well too, but may require additional tuning or supplementa
 This repository contains the **Principal** rule set — the foundational rules that every AI user needs.
 
 For the complete **Advanced** set (32 rules across all platforms, including specialized rules for scripts, Git, Excel, video, and more), see:  
-→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) *(access by subscription)*
+→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) *(access for course graduates or by subscription — [leave a request](#courses))*
 
-### Who this is for
-
-**Group 1 — General AI users** (anyone using AI assistants day-to-day):
-
-| Segment | What you get |
-|---------|-------------|
-| Just starting out | A solid foundation — rules, structure, deployment guide. Skip the months of trial-and-error. |
-| Already using AI actively | Upgrade your setup immediately. Then learn the framework to move faster and get better results. |
-| Power users | Deploy this to your colleagues, employees, partners. Better onboarding, faster ramp-up. |
-
-**Group 2 — Managers, founders, executives** (using AI for business and leadership):
-
-| Segment | What you get |
-|---------|-------------|
-| Just starting out | The right mental model from day one — AI as a managed resource, not a magic box. |
-| Already using AI | A system that makes your AI investment compound over time, not plateau. |
-| Advanced users | A framework for rolling out AI across your team and organization with consistency. |
-
-### Courses and videos
+### Courses
 
 - **For managers and founders:** "LLM in the Hands of a Manager: How to Strengthen Your Business and Optimize Management" — [PLACEHOLDER: link]
 - **For everyone working with AI:** "How to Tame Your LLM and Onboard It into Your World" — [PLACEHOLDER: link]
-- **Introductory video:** [Watch on YouTube](https://www.youtube.com/watch?v=8H31ofgYSdQ) ⚠️ *temporary video, will be replaced*
 
-### Stay in touch
+Course graduates get access to advanced materials.
 
-Leave your contact — I'll reach out when new materials, courses, or access to the advanced ruleset become available:
+Leave your contact if you're interested in courses or access to the advanced ruleset:
 
 - 📋 **[Interest form](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 min)
 - 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — write directly
 - 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — if you prefer GitHub
 
+### Who this is for
+
+**General AI users** (anyone using their AI assistants day-to-day):
+- Just starting out — a solid foundation: rules, structure, deployment guide. Skip the months of trial-and-error.
+- Already using AI actively — immediate upgrade; leverage to move faster.
+
+**Managers, founders, executives:**
+- Just starting out — the right mental model from day one: AI as a managed resource, not a magic box.
+- Already using AI — a system that makes your AI investment compound over time, not plateau.
+- Advanced users — a framework for rolling out AI across your team and organization with consistency.
+
 ---
 
 ## RU · Что это такое?
 
-Проверенный набор правил для AI-ассистентов (Cursor, Claude Code, OpenClaw).  
+Проверенный набор правил для ваших AI-ассистентов (Cursor, Claude Code, OpenClaw).  
 Готов к деплою. Содержит пошаговые инструкции для развёртывания с помощью ИИ для каждой платформы.
 
 **Правила — только начало.**  
@@ -157,7 +149,7 @@ Leave your contact — I'll reach out when new materials, courses, or access to 
 
 ![Двое из ларца — RU](assets/vovka-two-from-chest-ru.gif)
 
-Установка правил — это шаг первый. Шаг второй — освоить логику работы с AI, логику его адаптации под себя, чтобы продолжать улучшать систему самостоятельно: замечать что идёт не так, корректировать, расширять возможности. Для этого приходите к нам на курсы (ссылки ниже) — они дают правильную оптику и фреймворки, которые работают. И даже когда инструменты изменятся — а через полгода-год они изменятся точно — вы сможете ясно понимать, что из новых инструментов подходит, для чего и как их лучше использовать.
+Установка правил — это шаг первый. Шаг второй — освоить логику работы с AI, логику его адаптации под себя, чтобы продолжать улучшать систему самостоятельно: замечать что идёт не так, корректировать, расширять возможности. Для этого приходите к нам на [курсы](#курсы) — они дают правильную оптику и фреймворки, которые работают. И даже когда инструменты изменятся — а через полгода-год они изменятся точно — вы сможете ясно понимать, что из новых инструментов подходит, для чего и как их лучше использовать.
 
 ### Структура
 
@@ -216,39 +208,31 @@ EN-версии на ~12–15% компактнее RU.
 Этот репозиторий содержит **базовый (Principal)** набор — правила, которые нужны каждому пользователю AI.
 
 Полный **расширенный (Advanced)** набор (32 правила на всех платформах, включая специализированные правила для скриптов, Git, Excel, видео и др.):  
-→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) *(доступ по подписке)*
+→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) *(доступ — прошедшим курсы или по подписке; [оставляйте заявки](#курсы))*
 
-### Для кого это
-
-**Группа 1 — Все, кто работает с AI** (используют AI-ассистентов в повседневной работе):
-
-| Сегмент | Что вы получаете |
-|---------|-----------------|
-| Только начинаете | Надёжный фундамент — правила, структура, инструкция по установке. Пропускаете месяцы проб и ошибок. |
-| Уже активно используете AI | Мгновенное улучшение вашей конфигурации. Затем — фреймворк, чтобы двигаться быстрее и получать лучшие результаты. |
-| Продвинутые пользователи | Разверните это для коллег, сотрудников, партнёров. Лучший онбординг, быстрый выход на рабочий режим. |
-
-**Группа 2 — Руководители, предприниматели, управленцы** (используют AI для бизнеса и управления):
-
-| Сегмент | Что вы получаете |
-|---------|-----------------|
-| Только начинаете | Правильная ментальная модель с первого дня — AI как управляемый ресурс, а не магическая коробка. |
-| Уже используете AI | Система, которая наращивает отдачу от AI со временем, а не выходит на плато. |
-| Продвинутые пользователи | Фреймворк для масштабирования AI на команду и организацию с единым стандартом. |
-
-### Курсы и видео
+### Курсы
 
 - **Для руководителей и предпринимателей:** «LLM в руках управленца: как усилить бизнес и оптимизировать управление» — [PLACEHOLDER: ссылка]
 - **Для всех, кто работает с AI:** «Как обуздать LLM и онбордить её в свой мир» — [PLACEHOLDER: ссылка]
-- **Ознакомительное видео:** [Смотреть на YouTube](https://www.youtube.com/watch?v=8H31ofgYSdQ) ⚠️ *временное видео, будет заменено*
 
-### Оставить заявку
+Прошедшие курс получают доступ к расширенным материалам.
 
-Оставьте контакт — напишу, когда появятся новые материалы, курсы или доступ к расширенному набору правил:
+Оставить заявку, если интересны курсы или доступ к расширенному набору правил:
 
 - 📋 **[Форма заявки](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 минута)
 - 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — написать напрямую
 - 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — если удобнее через GitHub
+
+### Для кого это
+
+**Все, кто работает с AI** (используют AI-ассистентов в повседневной работе):
+- Только начинаете — фундамент: правила, структура, инструкция по установке. Пропускаете месяцы проб и ошибок.
+- Активно используете — мгновенное улучшение; подспорье, чтобы двигаться быстрее.
+
+**Руководители, предприниматели, управленцы:**
+- Только начинаете — правильная модель с первого дня: AI как управляемый ресурс, а не магическая коробка.
+- Уже используете — система, которая наращивает отдачу от AI со временем, а не выходит на плато.
+- Продвинутые пользователи — фреймворк для масштабирования AI на команду и организацию с единым стандартом.
 
 ---
 
