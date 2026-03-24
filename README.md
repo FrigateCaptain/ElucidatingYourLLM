@@ -60,11 +60,7 @@ openclaw/
 
 ### How to deploy
 
-**Option 1 — manual:**  
-Copy the files from your platform folder to your project root.  
-See `INSTRUCTIONS.md` in the platform folder for exact steps.
-
-**Option 2 — via AI (recommended):**  
+**Option 1 — via AI (recommended):**  
 Give your AI a link to the `deploy-workflow.md` for your platform:
 
 ```
@@ -74,6 +70,10 @@ OpenClaw:    https://github.com/FrigateCaptain/ElucidatingYourLLM/blob/main/open
 ```
 
 Your AI will read the rules, check for conflicts with your existing setup, and deploy everything.
+
+**Option 2 — manual:**  
+Copy the files from your platform folder to your project root.  
+See `INSTRUCTIONS.md` in the platform folder for exact steps.
 
 ### Context window impact
 
@@ -165,11 +165,7 @@ openclaw/ru/      — правила для OpenClaw
 
 ### Как задеплоить
 
-**Вариант 1 — вручную:**  
-Скопируйте файлы из папки вашей платформы в корень проекта.  
-Подробности — в `INSTRUCTIONS.md` в папке платформы.
-
-**Вариант 2 — через AI (рекомендую):**  
+**Вариант 1 — через AI (рекомендую):**  
 Дайте AI ссылку на `deploy-workflow.md` для вашей платформы:
 
 ```
@@ -179,6 +175,10 @@ OpenClaw:    https://github.com/FrigateCaptain/ElucidatingYourLLM/blob/main/open
 ```
 
 AI прочитает правила, проверит конфликты с вашими текущими правилами и задеплоит всё самостоятельно.
+
+**Вариант 2 — вручную:**  
+Скопируйте файлы из папки вашей платформы в корень проекта.  
+Подробности — в `INSTRUCTIONS.md` в папке платформы.
 
 ### Нагрузка на контекстное окно
 
@@ -237,4 +237,4 @@ EN-версии на ~12–15% компактнее RU.
 ---
 
 *Создан: 21 марта 2026*  
-*Актуализирован: 24 марта 2026, 17:30*
+*Актуализирован: 24 марта 2026, 20:45*

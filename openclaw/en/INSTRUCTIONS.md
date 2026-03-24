@@ -7,7 +7,10 @@
 ## Что здесь
 
 - `agents-rules.md` — основные правила для вставки в `AGENTS.md` + блок-роутер read-on-demand
-- `specific/` — правила, загружаемые агентом по описанию задачи (read on demand)
+- `specific/` — специфические правила для конкретных задач, загружаемые агентом по описанию задачи (read on demand):
+  - `file-editing.md`
+  - `pre-install-check.md`
+  - `structural-analogy.md`
 
 ## Как это работает
 
@@ -31,9 +34,3 @@ AI прочитает ваш текущий `AGENTS.md`, выявит перес
 3. Запустите новую сессию OpenClaw.
 
 Если в вашем `AGENTS.md` уже есть правила — проверьте на дублирование перед вставкой.
-
-## Состав правил
-
-- `specific/file-editing.md`
-- `specific/pre-install-check.md`
-- `specific/structural-analogy.md`
