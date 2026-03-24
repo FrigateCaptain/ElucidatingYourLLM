@@ -110,7 +110,7 @@ For the complete **Advanced** set (32 rules across all platforms, including spec
 - **For managers and founders:** "LLM in the Hands of a Manager: How to Strengthen Your Business and Optimize Management" — [PLACEHOLDER: link]
 - **For everyone working with AI:** "How to Tame Your LLM and Onboard It into Your World" — [PLACEHOLDER: link]
 
-Course graduates get access to advanced materials.
+Course graduates also get access to [advanced materials](https://github.com/FrigateCaptain/SharpHandsOnLLM).
 
 Leave your contact if you're interested in courses or access to the advanced ruleset:
 
@@ -215,7 +215,7 @@ EN-версии на ~12–15% компактнее RU.
 - **Для руководителей и предпринимателей:** «LLM в руках управленца: как усилить бизнес и оптимизировать управление» — [PLACEHOLDER: ссылка]
 - **Для всех, кто работает с AI:** «Как обуздать LLM и онбордить её в свой мир» — [PLACEHOLDER: ссылка]
 
-Прошедшие курс получают доступ к расширенным материалам.
+Прошедшие курс также получают доступ к [расширенным материалам](https://github.com/FrigateCaptain/SharpHandsOnLLM).
 
 Оставить заявку, если интересны курсы или доступ к расширенному набору правил:
 
