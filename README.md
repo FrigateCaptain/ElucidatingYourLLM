@@ -21,9 +21,9 @@ A battle-tested **set of main and core rules** for your AI assistants — ready 
 **But rules are just the beginning.**  
 The real results come from ongoing work with the rules: how you notice deviations, correct them through new rules, verify the fixes, and systematically expand what your AI can do for you.
 
-That's the **AI-Lucidability Framework** — what makes the Human-in-the-Loop (HITL) approach actually work. It's what separates people who get 10x value from AI from those who simply augment their usual workflow. [→ Courses](#courses)
+That's the **AI-Lucidability Framework** — what makes the Human-in-the-Loop (HITL) approach actually work. It's what separates people who get 10x value from AI from those who simply augment their usual workflow. [→ details](#courses)
 
-### What you get
+### What you get from deploying the main and core rules
 
 Your AI assistant becomes sensible, sharp, specific, and reliable — not only helping with day-to-day tasks but also continuously tuning and improving itself.
 
@@ -157,9 +157,9 @@ Other models may work well too, but may require additional tuning or supplementa
 **Правила — только начало.**  
 Настоящий результат получается от дальнейшей работы с правилами: как ты замечаешь отклонения, корректируешь через новые правила, верифицируешь поправки и систематически расширяешь то, что AI умеет делать за тебя.
 
-Это и есть **фреймворк AI-Lucidability** (ИИ-контрастирования), делающий подход Human-in-the-Loop (HITL) по-настоящему рабочим — именно AI-Lucidability отличает людей, которые получают кратный результат от AI, от тех, кто просто дополняет привычные действия. [→ Курсы](#курсы)
+Это и есть **фреймворк AI-Lucidability** (ИИ-контрастирования), делающий подход Human-in-the-Loop (HITL) по-настоящему рабочим — именно AI-Lucidability отличает людей, которые получают кратный результат от AI, от тех, кто просто дополняет привычные действия. [→ подробности](#курсы)
 
-### Что вы получаете
+### Что вы получаете от установки набора ключевых правил
 
 Ваш AI-ассистент становится адекватным, толковым, конкретным и исполнительным — и не только помогает в повседневных задачах, но и последовательно настраивает и улучшает себя.
 
