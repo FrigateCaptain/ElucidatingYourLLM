@@ -31,6 +31,53 @@ This includes both personal refinements and work by the "Key to Real Management"
 
 Deploying the rules is step one. Step two is learning how to work with AI and how to adapt it for yourself so you can keep improving the system on your own: spot what's off, fix it, expand what's possible. That's what the [courses](#courses) are for — they give you the right lens and frameworks that hold up even when the tools change — and they will, within six months to a year. You'll be able to clearly understand which new tools fit your needs, what they're good for, and how to use them best.
 
+> **This repo has the Principal rules. There's also an [Advanced set (18 extra rules)](#want-more-rules) and [courses](#courses) — details below.**
+
+### Who this is for
+
+**General AI users** (anyone using their AI assistants day-to-day):
+- Just starting out — a solid foundation: rules, structure, deployment guide. Skip the months of trial-and-error.
+- Already using AI actively — immediate upgrade; leverage to move faster.
+
+**Managers, founders, executives:**
+- Just starting out — the right mental model from day one: AI as a managed resource, not a magic box.
+- Already using AI — a system that makes your AI investment compound over time, not plateau.
+- Advanced users — a framework for rolling out AI across your team and organization with consistency.
+
+### Want more rules?
+
+Beyond this repository with the **Principal** rule set (the foundational rules every AI user needs), there is also the **Advanced** rule set — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — a supplement to ElucidatingYourLLM.  
+It includes all Principal rules + 18 additional specialized rules, in particular:
+
+- Rules management (how to structure your work with AI rule files so it stays a clear, productive tool)
+- Projects management min (structuring and documenting project information so it's both human-readable (easy to recall what was done and why) and AI-readable (so the AI understands the logic and makes better suggestions))
+- Backlogs management (how to organize work so nothing important-but-not-urgent falls through the cracks)
+- Incident documentation (AI incident tracking — so the data a) accumulates and b) provides quality material for future analysis)
+- Scripts management (rules and checklist for systematic, transparent script work — so your script collection doesn't turn into spaghetti as it grows)
+- Excel files (openpyxl workflow)
+- Generated documents (DOCX/ODT generation)
+- Source attribution markers (visual cues that make trustworthiness immediately apparent)
+- Skills/plugins safety
+- Settings change tracking (so that if something breaks, you can figure out what was configured, how, and why)
+- Technical documents formatting (readable structure)
+
+Access is available to all who complete our courses or by subscription — [leave a request](#courses).
+
+### Courses
+
+- **For managers and founders:** "LLM in the Hands of a Manager: How to Strengthen Your Business and Optimize Management"
+- **For everyone working with AI:** "How to Tame Your LLM and Onboard It into Your World"
+
+Course graduates also get access to [advanced materials](https://github.com/FrigateCaptain/SharpHandsOnLLM).
+
+Leave your contact if you're interested in courses or access to the advanced ruleset:
+
+- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — write directly
+- 📋 **[Interest form](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 min)
+- 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — if you prefer GitHub
+
+*Всё это также доступно [на русском языке ниже](#хочешь-больше-правил).*
+
 ### Structure
 
 The repository is organized by platform, then by language:
@@ -98,49 +145,6 @@ Other models may work well too, but may require additional tuning or supplementa
 
 **When extending or adding new rules with AI:** it is critically important to use the most capable model available (e.g., Opus 4.6). Rule quality and consistency across the ruleset depend on the model's ability to reason about complex behavioral constraints — weaker models produce lower-quality rules that may conflict with or undermine existing ones, or simply fail to produce the intended effect.
 
-### Want more rules?
-
-Beyond this repository with the **Principal** rule set (the foundational rules every AI user needs), there is also the **Advanced** rule set — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — a supplement to ElucidatingYourLLM.  
-It includes all Principal rules + 18 additional specialized rules, in particular:
-
-- Rules management (how to structure your work with AI rule files so it stays a clear, productive tool)
-- Projects management min (structuring and documenting project information so it's both human-readable (easy to recall what was done and why) and AI-readable (so the AI understands the logic and makes better suggestions))
-- Backlogs management (how to organize work so nothing important-but-not-urgent falls through the cracks)
-- Incident documentation (AI incident tracking — so the data a) accumulates and b) provides quality material for future analysis)
-- Scripts management (rules and checklist for systematic, transparent script work — so your script collection doesn't turn into spaghetti as it grows)
-- Excel files (openpyxl workflow)
-- Generated documents (DOCX/ODT generation)
-- Source attribution markers (visual cues that make trustworthiness immediately apparent)
-- Skills/plugins safety
-- Settings change tracking (so that if something breaks, you can figure out what was configured, how, and why)
-- Technical documents formatting (readable structure)
-
-Access is available to all who complete our courses or by subscription — [leave a request](#courses).
-
-### Courses
-
-- **For managers and founders:** "LLM in the Hands of a Manager: How to Strengthen Your Business and Optimize Management"
-- **For everyone working with AI:** "How to Tame Your LLM and Onboard It into Your World"
-
-Course graduates also get access to [advanced materials](https://github.com/FrigateCaptain/SharpHandsOnLLM).
-
-Leave your contact if you're interested in courses or access to the advanced ruleset:
-
-- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — write directly
-- 📋 **[Interest form](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 min)
-- 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — if you prefer GitHub
-
-### Who this is for
-
-**General AI users** (anyone using their AI assistants day-to-day):
-- Just starting out — a solid foundation: rules, structure, deployment guide. Skip the months of trial-and-error.
-- Already using AI actively — immediate upgrade; leverage to move faster.
-
-**Managers, founders, executives:**
-- Just starting out — the right mental model from day one: AI as a managed resource, not a magic box.
-- Already using AI — a system that makes your AI investment compound over time, not plateau.
-- Advanced users — a framework for rolling out AI across your team and organization with consistency.
-
 ---
 
 ## RU · Что это такое?
@@ -162,6 +166,51 @@ Leave your contact if you're interested in courses or access to the advanced rul
 ![Двое из ларца — RU](assets/vovka-two-from-chest-ru.gif)
 
 Установка правил — это шаг первый. Шаг второй — освоить логику работы с AI, логику его адаптации под себя, чтобы продолжать улучшать систему самостоятельно: замечать что идёт не так, корректировать, расширять возможности. Для этого приходите к нам на [курсы](#курсы) — они дают правильную оптику и фреймворки, которые работают. И даже когда инструменты изменятся — а через полгода-год они изменятся точно — вы сможете ясно понимать, что из новых инструментов подходит, для чего и как их лучше использовать.
+
+> **Здесь — базовый (Principal) набор правил. Есть также [расширенный набор (18 доп. правил)](#хочешь-больше-правил) и [курсы](#курсы) — подробности ниже.**
+
+### Для кого это
+
+**Все, кто работает с AI** (используют AI-ассистентов в повседневной работе):
+- Только начинаете — фундамент: правила, структура, инструкция по установке. Пропускаете месяцы проб и ошибок.
+- Активно используете — мгновенное улучшение; подспорье, чтобы двигаться быстрее.
+
+**Руководители, предприниматели, управленцы:**
+- Только начинаете — правильная модель с первого дня: AI как управляемый ресурс, а не магическая коробка.
+- Уже используете — система, которая наращивает отдачу от AI со временем, а не выходит на плато.
+- Продвинутые пользователи — фреймворк для масштабирования AI на команду и организацию с единым стандартом.
+
+### Хочешь больше правил?
+
+Кроме текущего репозитория с **базовым (Principal)** набором правил, которые нужны каждому пользователю AI, есть ещё **Расширенный (Advanced)** набор правил — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — дополнение к ElucidatingYourLLM.  
+Он включает все базовые правила + 18 специализированных, в частности:
+
+- Управление правилами (как построить работу с файлами правил AI, чтобы это было ясным и продуктивным инструментом)
+- Управление проектами min (структурирование и фиксация информации о проекте таким образом, чтобы она была и хорошо человекочитаемой (легко вспомнить, что и зачем делалось) и ИИ-читаемой (чтобы ИИ адекватнее понимал логику и делал/предлагал адекватные решения))
+- Управление бэклогами (как организовать работу, чтобы всё нужное но не срочное не терялось)
+- Документирование инцидентов (отслеживание AI-инцидентов, чтобы информация а) накапливалась б) давала впоследствии качественные данные)
+- Управление скриптами (правила и чеклист, обеспечивающие упорядоченную системную работу со скриптами, чтобы всё было прозрачно, а набор скриптов при разрастании не превращался в спагетти-код)
+- Excel-файлы (воркфлоу openpyxl)
+- Генерируемые документы (создание DOCX/ODT)
+- Маркеры источников (визуализация, чтобы достоверность была наглядной)
+- Безопасность скиллов/плагинов
+- Фиксация изменений настроек (чтобы если что-то перестанет работать — можно было разобраться, что и как настроено или должно быть настроено, и почему именно так)
+- Форматирование технических документов (удобочитаемая структура)
+
+Доступ к нему выдаётся всем, прошедшим наши курсы, или по подписке — [оставляйте заявки](#курсы).
+
+### Курсы
+
+- **Для руководителей и предпринимателей:** «LLM в руках управленца: как усилить бизнес и оптимизировать управление»
+- **Для всех, кто работает с AI:** «Как обуздать LLM и онбордить её в свой мир»
+
+Прошедшие курс также получают доступ к [расширенным материалам](https://github.com/FrigateCaptain/SharpHandsOnLLM).
+
+Оставить заявку, если интересны курсы или доступ к расширенному набору правил:
+
+- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — пишите напрямую
+- 📋 **[Форма заявки](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 минута)
+- 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — если удобнее через GitHub
 
 ### Структура
 
@@ -215,50 +264,7 @@ EN-версии на ~12–15% компактнее RU.
 
 **При доработке и добавлении новых правил с помощью ИИ:** критически важно использовать наиболее старшую из доступных моделей (например, Opus 4.6). Качество правил и их согласованность с уже существующими зависят от способности модели рассуждать о сложных поведенческих ограничениях — более слабые модели генерируют правила худшего качества, которые могут конфликтовать с уже имеющимися или подрывать их действие, или даже просто не давать нужный эффект.
 
-### Хочешь больше правил?
-
-Кроме текущего репозитория с **базовым (Principal)** набором правил, которые нужны каждому пользователю AI, есть ещё **Расширенный (Advanced)** набор правил — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — дополнение к ElucidatingYourLLM.  
-Он включает все базовые правила + 18 специализированных, в частности:
-
-- Управление правилами (как построить работу с файлами правил AI, чтобы это было ясным и продуктивным инструментом)
-- Управление проектами min (структурирование и фиксация информации о проекте таким образом, чтобы она была и хорошо человекочитаемой (легко вспомнить, что и зачем делалось) и ИИ-читаемой (чтобы ИИ адекватнее понимал логику и делал/предлагал адекватные решения))
-- Управление бэклогами (как организовать работу, чтобы всё нужное но не срочное не терялось)
-- Документирование инцидентов (отслеживание AI-инцидентов, чтобы информация а) накапливалась б) давала впоследствии качественные данные)
-- Управление скриптами (правила и чеклист, обеспечивающие упорядоченную системную работу со скриптами, чтобы всё было прозрачно, а набор скриптов при разрастании не превращался в спагетти-код)
-- Excel-файлы (воркфлоу openpyxl)
-- Генерируемые документы (создание DOCX/ODT)
-- Маркеры источников (визуализация, чтобы достоверность была наглядной)
-- Безопасность скиллов/плагинов
-- Фиксация изменений настроек (чтобы если что-то перестанет работать — можно было разобраться, что и как настроено или должно быть настроено, и почему именно так)
-- Форматирование технических документов (удобочитаемая структура)
-
-Доступ к нему выдаётся всем, прошедшим наши курсы, или по подписке — [оставляйте заявки](#курсы).
-
-### Курсы
-
-- **Для руководителей и предпринимателей:** «LLM в руках управленца: как усилить бизнес и оптимизировать управление»
-- **Для всех, кто работает с AI:** «Как обуздать LLM и онбордить её в свой мир»
-
-Прошедшие курс также получают доступ к [расширенным материалам](https://github.com/FrigateCaptain/SharpHandsOnLLM).
-
-Оставить заявку, если интересны курсы или доступ к расширенному набору правил:
-
-- 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — пишите напрямую
-- 📋 **[Форма заявки](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 минута)
-- 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — если удобнее через GitHub
-
-### Для кого это
-
-**Все, кто работает с AI** (используют AI-ассистентов в повседневной работе):
-- Только начинаете — фундамент: правила, структура, инструкция по установке. Пропускаете месяцы проб и ошибок.
-- Активно используете — мгновенное улучшение; подспорье, чтобы двигаться быстрее.
-
-**Руководители, предприниматели, управленцы:**
-- Только начинаете — правильная модель с первого дня: AI как управляемый ресурс, а не магическая коробка.
-- Уже используете — система, которая наращивает отдачу от AI со временем, а не выходит на плато.
-- Продвинутые пользователи — фреймворк для масштабирования AI на команду и организацию с единым стандартом.
-
 ---
 
 *Создан: 21 марта 2026*  
-*Актуализирован: 24 марта 2026, 22:20*
+*Актуализирован: 25 марта 2026, 00:15*
