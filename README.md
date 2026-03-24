@@ -16,6 +16,8 @@
 
 A battle-tested set of rules for your AI assistants — ready to deploy. Comes with step-by-step AI-assisted deployment guides for each platform.
 
+> **This repo has the Principal rules. There's also an [Advanced set (18 extra rules)](#want-more-rules) and [courses](#courses) — details below.**
+
 **But rules are just the beginning.**  
 The real results come from ongoing work with the rules: how you notice deviations, correct them through new rules, verify the fixes, and systematically expand what your AI can do for you.
 
@@ -30,8 +32,6 @@ This includes both personal refinements and work by the "Key to Real Management"
 ![Two from the Chest — EN](assets/vovka-two-from-chest-en.gif)
 
 Deploying the rules is step one. Step two is learning how to work with AI and how to adapt it for yourself so you can keep improving the system on your own: spot what's off, fix it, expand what's possible. That's what the [courses](#courses) are for — they give you the right lens and frameworks that hold up even when the tools change — and they will, within six months to a year. You'll be able to clearly understand which new tools fit your needs, what they're good for, and how to use them best.
-
-> **This repo has the Principal rules. There's also an [Advanced set (18 extra rules)](#want-more-rules) and [courses](#courses) — details below.**
 
 ### Want more rules?
 
@@ -152,6 +152,8 @@ Other models may work well too, but may require additional tuning or supplementa
 Проверенный набор правил для ваших AI-ассистентов (Cursor, Claude Code, OpenClaw).  
 Готов к деплою. Содержит пошаговые инструкции для развёртывания с помощью ИИ для каждой платформы.
 
+> **Здесь — базовый (Principal) набор правил. Есть также [расширенный набор (18 доп. правил)](#хочешь-больше-правил) и [курсы](#курсы) — подробности ниже.**
+
 **Правила — только начало.**  
 Настоящий результат получается от дальнейшей работы с правилами: как ты замечаешь отклонения, корректируешь через новые правила, верифицируешь поправки и систематически расширяешь то, что AI умеет делать за тебя.
 
@@ -166,8 +168,6 @@ Other models may work well too, but may require additional tuning or supplementa
 ![Двое из ларца — RU](assets/vovka-two-from-chest-ru.gif)
 
 Установка правил — это шаг первый. Шаг второй — освоить логику работы с AI, логику его адаптации под себя, чтобы продолжать улучшать систему самостоятельно: замечать что идёт не так, корректировать, расширять возможности. Для этого приходите к нам на [курсы](#курсы) — они дают правильную оптику и фреймворки, которые работают. И даже когда инструменты изменятся — а через полгода-год они изменятся точно — вы сможете ясно понимать, что из новых инструментов подходит, для чего и как их лучше использовать.
-
-> **Здесь — базовый (Principal) набор правил. Есть также [расширенный набор (18 доп. правил)](#хочешь-больше-правил) и [курсы](#курсы) — подробности ниже.**
 
 ### Хочешь больше правил?
 
