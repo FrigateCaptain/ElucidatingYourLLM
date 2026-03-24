@@ -102,8 +102,23 @@ Other models may work well too, but may require additional tuning or supplementa
 
 This repository contains the **Principal** rule set — the foundational rules that every AI user needs.
 
-For the complete **Advanced** set (32 rules across all platforms, including specialized rules for scripts, Git, Excel, video, and more), see:  
-→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) *(access for course graduates or by subscription — [leave a request](#courses))*
+→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — The Advanced rule set — a supplement to ElucidatingYourLLM.
+
+Includes all Principal rules + 18 additional specialized rules:
+
+- Rules management (how to structure your work with AI rule files so it stays a clear, productive tool)
+- Projects management min (structuring and documenting project information so it's both human-readable (easy to recall what was done and why) and AI-readable (so the AI understands the logic and makes better suggestions))
+- Backlogs management (how to organize work so nothing important-but-not-urgent falls through the cracks)
+- Incident documentation (AI incident tracking — so the data a) accumulates and b) provides quality material for future analysis)
+- Scripts management (rules and checklist for systematic, transparent script work — so your script collection doesn't turn into spaghetti as it grows)
+- Excel files (openpyxl workflow)
+- Generated documents (DOCX/ODT generation)
+- Source attribution markers (visual cues that make trustworthiness immediately apparent)
+- Skills/plugins safety
+- Settings change tracking (so that if something breaks, you can figure out what was configured, how, and why)
+- Technical documents formatting (readable structure)
+
+*(access for course graduates or by subscription — [leave a request](#courses))*
 
 ### Courses
 
@@ -207,8 +222,23 @@ EN-версии на ~12–15% компактнее RU.
 
 Этот репозиторий содержит **базовый (Principal)** набор — правила, которые нужны каждому пользователю AI.
 
-Полный **расширенный (Advanced)** набор (32 правила на всех платформах, включая специализированные правила для скриптов, Git, Excel, видео и др.):  
-→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) *(доступ — прошедшим курсы или по подписке; [оставляйте заявки](#курсы))*
+→ [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — Расширенный (Advanced) набор правил — дополнение к ElucidatingYourLLM.
+
+Включает все базовые правила + 18 специализированных:
+
+- Управление правилами (как построить работу с файлами правил AI, чтобы это было ясным и продуктивным инструментом)
+- Управление проектами min (структурирование и фиксация информации о проекте таким образом, чтобы она была и хорошо человекочитаемой (легко вспомнить, что и зачем делалось) и ИИ-читаемой (чтобы ИИ адекватнее понимал логику и делал/предлагал адекватные решения))
+- Управление бэклогами (как организовать работу, чтобы всё нужное но не срочное не терялось)
+- Документирование инцидентов (отслеживание AI-инцидентов, чтобы информация а) накапливалась б) давала впоследствии качественные данные)
+- Управление скриптами (правила и чеклист, обеспечивающие упорядоченную системную работу со скриптами, чтобы всё было прозрачно, а набор скриптов при разрастании не превращался в спагетти-код)
+- Excel-файлы (воркфлоу openpyxl)
+- Генерируемые документы (создание DOCX/ODT)
+- Маркеры источников (визуализация, чтобы достоверность была наглядной)
+- Безопасность скиллов/плагинов
+- Фиксация изменений настроек (чтобы если что-то перестанет работать — можно было разобраться, что и как настроено или должно быть настроено, и почему именно так)
+- Форматирование технических документов (удобочитаемая структура)
+
+*(доступ — прошедшим курсы или по подписке; [оставляйте заявки](#курсы))*
 
 ### Курсы
 
@@ -237,4 +267,4 @@ EN-версии на ~12–15% компактнее RU.
 ---
 
 *Создан: 21 марта 2026*  
-*Актуализирован: 24 марта 2026, 20:45*
+*Актуализирован: 24 марта 2026, 22:10*
