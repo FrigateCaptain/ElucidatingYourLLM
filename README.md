@@ -33,17 +33,6 @@ Deploying the rules is step one. Step two is learning how to work with AI and ho
 
 > **This repo has the Principal rules. There's also an [Advanced set (18 extra rules)](#want-more-rules) and [courses](#courses) — details below.**
 
-### Who this is for
-
-**General AI users** (anyone using their AI assistants day-to-day):
-- Just starting out — a solid foundation: rules, structure, deployment guide. Skip the months of trial-and-error.
-- Already using AI actively — immediate upgrade; leverage to move faster.
-
-**Managers, founders, executives:**
-- Just starting out — the right mental model from day one: AI as a managed resource, not a magic box.
-- Already using AI — a system that makes your AI investment compound over time, not plateau.
-- Advanced users — a framework for rolling out AI across your team and organization with consistency.
-
 ### Want more rules?
 
 Beyond this repository with the **Principal** rule set (the foundational rules every AI user needs), there is also the **Advanced** rule set — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — a supplement to ElucidatingYourLLM.  
@@ -77,6 +66,17 @@ Leave your contact if you're interested in courses or access to the advanced rul
 - 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — if you prefer GitHub
 
 *Всё это также доступно [на русском языке ниже](#хочешь-больше-правил).*
+
+### Who this is for
+
+**General AI users** (anyone using their AI assistants day-to-day):
+- Just starting out — a solid foundation: rules, structure, deployment guide. Skip the months of trial-and-error.
+- Already using AI actively — immediate upgrade; leverage to move faster.
+
+**Managers, founders, executives:**
+- Just starting out — the right mental model from day one: AI as a managed resource, not a magic box.
+- Already using AI — a system that makes your AI investment compound over time, not plateau.
+- Advanced users — a framework for rolling out AI across your team and organization with consistency.
 
 ### Structure
 
@@ -169,17 +169,6 @@ Other models may work well too, but may require additional tuning or supplementa
 
 > **Здесь — базовый (Principal) набор правил. Есть также [расширенный набор (18 доп. правил)](#хочешь-больше-правил) и [курсы](#курсы) — подробности ниже.**
 
-### Для кого это
-
-**Все, кто работает с AI** (используют AI-ассистентов в повседневной работе):
-- Только начинаете — фундамент: правила, структура, инструкция по установке. Пропускаете месяцы проб и ошибок.
-- Активно используете — мгновенное улучшение; подспорье, чтобы двигаться быстрее.
-
-**Руководители, предприниматели, управленцы:**
-- Только начинаете — правильная модель с первого дня: AI как управляемый ресурс, а не магическая коробка.
-- Уже используете — система, которая наращивает отдачу от AI со временем, а не выходит на плато.
-- Продвинутые пользователи — фреймворк для масштабирования AI на команду и организацию с единым стандартом.
-
 ### Хочешь больше правил?
 
 Кроме текущего репозитория с **базовым (Principal)** набором правил, которые нужны каждому пользователю AI, есть ещё **Расширенный (Advanced)** набор правил — → [SharpHandsOnLLM](https://github.com/FrigateCaptain/SharpHandsOnLLM) — дополнение к ElucidatingYourLLM.  
@@ -211,6 +200,17 @@ Other models may work well too, but may require additional tuning or supplementa
 - 💬 **Telegram:** [@vitaly_zhandarov](https://t.me/vitaly_zhandarov) — пишите напрямую
 - 📋 **[Форма заявки](https://forms.gle/p4iuK5CF32b199AH9)** — Google Form (1 минута)
 - 🐙 **[GitHub Issue](../../issues/new?template=interest.md)** — если удобнее через GitHub
+
+### Для кого это
+
+**Все, кто работает с AI** (используют AI-ассистентов в повседневной работе):
+- Только начинаете — фундамент: правила, структура, инструкция по установке. Пропускаете месяцы проб и ошибок.
+- Активно используете — мгновенное улучшение; подспорье, чтобы двигаться быстрее.
+
+**Руководители, предприниматели, управленцы:**
+- Только начинаете — правильная модель с первого дня: AI как управляемый ресурс, а не магическая коробка.
+- Уже используете — система, которая наращивает отдачу от AI со временем, а не выходит на плато.
+- Продвинутые пользователи — фреймворк для масштабирования AI на команду и организацию с единым стандартом.
 
 ### Структура
 
