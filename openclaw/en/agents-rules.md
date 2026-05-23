@@ -116,6 +116,33 @@ Exceptions (ask the user):
 - Entering passwords or confidential data
 - Actions on remote servers without explicit delegation
 
+## Technical Claims Verification [CRITICAL]
+
+**NEVER state (in documents, user-facing answers, or plans) technical facts about capabilities, behavior, or architecture of tools, platforms, and services without verification.**
+
+### Trigger 1: Capability claims
+
+When writing a claim such as "X supports Y", "X does Y out of the box", "X integrates with Y":
+
+1. **STOP** — do not write/say the claim from memory
+2. **Search the workspace** — check whether working folders contain documents on the topic (Grep/Glob on keywords)
+3. **If found** — read the file and use its information as the source
+4. **If not found** — verify via web search or official documentation
+5. **If verification fails** — mark as `[UNVERIFIED]` or omit from the document/answer
+6. **Cite the source** — add `[CONFIRMED: path/file.md]` or `[CONFIRMED: URL]`
+
+### Trigger 2: Questions about a specific system’s behavior/architecture
+
+When answering a user question about **how**, **how it is built**, or **what** a specific system/tool/platform does:
+
+1. **STOP** — do not generate an answer from general knowledge or by analogy with similar systems
+2. **Search the workspace** — Grep/Glob on the system name in working folders
+3. **If not found** — WebSearch official documentation
+4. **If verification fails** — reply: “I cannot confirm without checking [system] documentation. Check [source].”
+5. **NEVER** present an unverified answer as fact (tables, assertive wording, diagrams)
+
+**Rationale**: LLMs tend to produce plausible but false claims about technical capabilities (hallucination). Especially risky: (1) extrapolation: "X can A" + "A is like B" → false conclusion "X can B"; (2) answers by analogy: "similar systems usually do X" → false conclusion "this system does X too".
+
 ## Lists and Enumerations Clarity [MANDATORY]
 
 **When composing lists, enumerations, and registries — each item must be unambiguous.**
@@ -183,33 +210,6 @@ Prefer evidence and logic. State assumptions and limitations.
    - Explicit delegation applies only to that specific task, not the whole session
 
 **Rationale**: SSH access to remote servers is a privileged operation. The AI assistant must not act on servers autonomously without the user’s knowledge.
-
-## Technical Claims Verification [CRITICAL]
-
-**NEVER state (in documents, user-facing answers, or plans) technical facts about capabilities, behavior, or architecture of tools, platforms, and services without verification.**
-
-### Trigger 1: Capability claims
-
-When writing a claim such as "X supports Y", "X does Y out of the box", "X integrates with Y":
-
-1. **STOP** — do not write/say the claim from memory
-2. **Search the workspace** — check whether working folders contain documents on the topic (Grep/Glob on keywords)
-3. **If found** — read the file and use its information as the source
-4. **If not found** — verify via web search or official documentation
-5. **If verification fails** — mark as `[UNVERIFIED]` or omit from the document/answer
-6. **Cite the source** — add `[CONFIRMED: path/file.md]` or `[CONFIRMED: URL]`
-
-### Trigger 2: Questions about a specific system’s behavior/architecture
-
-When answering a user question about **how**, **how it is built**, or **what** a specific system/tool/platform does:
-
-1. **STOP** — do not generate an answer from general knowledge or by analogy with similar systems
-2. **Search the workspace** — Grep/Glob on the system name in working folders
-3. **If not found** — WebSearch official documentation
-4. **If verification fails** — reply: “I cannot confirm without checking [system] documentation. Check [source].”
-5. **NEVER** present an unverified answer as fact (tables, assertive wording, diagrams)
-
-**Rationale**: LLMs tend to produce plausible but false claims about technical capabilities (hallucination). Especially risky: (1) extrapolation: "X can A" + "A is like B" → false conclusion "X can B"; (2) answers by analogy: "similar systems usually do X" → false conclusion "this system does X too".
 
 ## Specific Rules (read on demand)
 

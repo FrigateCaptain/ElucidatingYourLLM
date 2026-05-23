@@ -7,11 +7,8 @@
 Ты помогаешь пользователю установить правила OpenClaw из репозитория ElucidatingYourLLM.
 Правила находятся рядом с этим файлом в папке `openclaw/ru/`:
 
-- `agents-rules.md` — 11 основных правил + блок-роутер read-on-demand
-- `specific/` — 3 файлов, запускаемых по условию:
-  - `file-editing.md`
-  - `pre-install-check.md`
-  - `structural-analogy.md`
+- `agents-rules.md` — 16 основных правил + блок-роутер read-on-demand
+- `specific/` — 3 файлов правил для read-on-demand
 
 ## Шаги деплоя
 
@@ -24,17 +21,9 @@
 
 - Прочитай `~/.openclaw/workspace/AGENTS.md` пользователя (если существует).
 - Проверь наличие папки `~/.openclaw/workspace/specific/`.
-- Если `AGENTS.md` не существует — пропусти бэкап и диагностику, сразу переходи к шагу 5.
+- Если `AGENTS.md` не существует — пропусти сравнение, сразу переходи к шагу 4.
 
-### 3. Бэкап
-
-Если у пользователя есть существующий `AGENTS.md` — спроси подтверждение и сделай бэкап:
-
-```bash
-cp ~/.openclaw/workspace/AGENTS.md ~/.openclaw/workspace/AGENTS.md.backup
-```
-
-### 4. Диагностика (если у пользователя уже есть правила)
+### 3. Диагностика (если у пользователя уже есть правила)
 
 Сравни секции `agents-rules.md` с секциями текущего `AGENTS.md`:
 
@@ -43,6 +32,14 @@ cp ~/.openclaw/workspace/AGENTS.md ~/.openclaw/workspace/AGENTS.md.backup
 - **Конфликтующие** — явное противоречие. Предложи варианты: взять новое, оставить старое, объединить.
 
 Также: есть ли в current `AGENTS.md` раздел «Specific Rules (read on demand)»? Если да — покажи разницу в списке файлов.
+
+### 4. Бэкап
+
+Если у пользователя есть существующий `AGENTS.md` — спроси подтверждение и сделай бэкап:
+
+```bash
+cp ~/.openclaw/workspace/AGENTS.md ~/.openclaw/workspace/AGENTS.md.backup
+```
 
 ### 5. Установка
 
